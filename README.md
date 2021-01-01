@@ -6,3 +6,5 @@ Usage as following:
   alt="" 
   width="21" 
   height="14">
+
+Visit IceTheme.com in case you are interested for Premium and Free Shopify Themes
